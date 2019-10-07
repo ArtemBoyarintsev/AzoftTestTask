@@ -1,0 +1,5 @@
+In the training folder you can find a jupyter notebook, where you can find training and conversion code.
+In the KittyDetector_androind folder you will find android application.
+
+I have loaded two networks: one trained by me, and the second mobile_net, which was trained on ImageNet classes. I just suppose that this mobile_net is much better than mine. In the app you can select
+with CheckBoxes which of networks to use.
